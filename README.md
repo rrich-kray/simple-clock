@@ -1,3 +1,3 @@
 # Simple Javascript Clock
 
-## Showing that even neanderthals can write simple code.
+Showing that even neanderthals can write simple code.git 
